@@ -41,7 +41,9 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+<p align="left">
+<a href="https://linkedin.com/in/elizabeth-kalondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabeth-kalondu" height="30" width="40" /></a>
+</p>
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:elizabethwaithereru@gmail.com)
 
 ---
