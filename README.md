@@ -32,6 +32,7 @@
 
 ### 🌱 Currently Learning
 
+- Software Development
 - Intermediate Python (error handling, modules, file I/O, OOP)
 - Data cleaning & preprocessing techniques
 - Intro to backend with Flask
